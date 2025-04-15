@@ -1,16 +1,7 @@
 # tcr-germline-paper
 ### JH @ MGH, 2025
 
-The contents of this repo produce the figures in the [currently under development] manuscript from Heather *et al.*, in which we use various publicly available data resources to illustrate why the field of TCR research perhaps needs to reconsider how they handle germline references.
-
-LIST RESOURCES
-    
-    GENEDB-RELEASES
-    
-    NOVEL-TCR-ALLELES
-    
-
-
+The contents of this repo produce the figures in the [currently in submission] manuscript from Heather *et al.*, in which we use various publicly available data resources to illustrate why the field of TCR research perhaps needs to reconsider how they handle germline references.
 
 ## Directions for use
 
