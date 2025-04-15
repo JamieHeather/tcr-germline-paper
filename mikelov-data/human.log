@@ -1,0 +1,406 @@
+Running generate-tag-files.py version:	0.2.1
+Run on:	 2025-02-14 10:43:10.602684
+Input FASTA file:	human.fasta
+Input FASTA last modified:	2025-02-14 10:42:32
+Sliding window length used:	20
+-----	-----
+Number genes covered:	396
+Number tags made:	4513
+-----	-----
+
+TRAJ1*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ10*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ11*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ12*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ13*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ13*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ14*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ15*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ15*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ16*01	Found a high-confidence motif: "F..GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ16*02	Found a high-confidence motif: "F..GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ17*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ18*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ19*01	Found a lower-confidence motif: "FG.G". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ2*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ20*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ21*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ22*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ23*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ23*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ24*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ24*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ24*03	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ25*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ26*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ27*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ28*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ29*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ3*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ30*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ31*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ32*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ32*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ33*01	Found a high-confidence motif: ".G.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ34*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ35*01	Found a high-confidence motif: ".G.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ36*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ37*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ37*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ38*01	Found a high-confidence motif: ".G.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ39*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ4*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ40*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ41*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ42*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ43*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ44*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ45*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ46*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ47*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ47*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ48*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ49*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ5*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ50*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ51*01	Found a high-confidence motif: "FG..T.[LV]". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAJ52*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ53*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ54*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ55*01	Found a lower-confidence motif: "WG.G". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAJ56*01	Found a high-confidence motif: "FG.G..[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ57*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ58*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ59*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ6*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ60*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAJ61*01	Found a lower-confidence motif: "FG..". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRAJ7*01	Found a high-confidence motif: "FG.G..[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ8*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAJ8*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAJ9*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV1-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV1-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV1-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV1-2*02	Found a lower-confidence motif: "C". Unable to find a high-confidence motif (close to the V region end) and/or gene is partial in it's 3 - using TRAV1-2*01's. Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV1-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV10*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV10*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV11*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV11-1*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV12-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV12-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV12-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV12-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV12-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV12-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV12-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV13-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV13-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV13-1*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV13-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV13-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV14-1*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV14-1*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV14/DV4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV14/DV4*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV14/DV4*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV14/DV4*04	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV15*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV16*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV17*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV18*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV19*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV20*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV20*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV20*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV20*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV21*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV21*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV22*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV23/DV6*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV23/DV6*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV23/DV6*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV23/DV6*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV23/DV6*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV24*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV24*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV25*01	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV26-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV26-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV26-1*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV26-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV26-2*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV27*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV27*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV27*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV28*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV28*02	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV29/DV5*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV29/DV5*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV29/DV5*03	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV29/DV5*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV3*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV30*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV30*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV30*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV30*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV30*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV31*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV31*02	Found a lower-confidence motif: "C". Unable to find a high-confidence motif (close to the V region end) and/or gene is partial in it's 3 - using TRAV31*01's. Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV32*01	Found a high-confidence motif: "[AST]..Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV33*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV33*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV34*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV35*01	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV35*02	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV35*03	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV36/DV7*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV36/DV7*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV36/DV7*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV36/DV7*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV36/DV7*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV37*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV38-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV38-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV38-1*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV38-1*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV38-2/DV8*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV39*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV40*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV41*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV46*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV5*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV6*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV6*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV6*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV6*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV6*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV6*06	Found a high-confidence motif: "[AST]..Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV6*07	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV7*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-1*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV8-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-3*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV8-4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-4*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-4*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV8-4*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-4*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-4*06	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-4*07	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-5*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV8-6*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-6*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV8-6-1*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV8-7*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV8-7*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAV9-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV9-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAV9-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRAV9-2*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRAVA*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAVA*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAVB*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAVB*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRAVC*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBJ1-1*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ1-2*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ1-3*01	Found a high-confidence motif: "FG.G..[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ1-4*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ1-5*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ1-6*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ1-6*02	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-1*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-2*01	Found a high-confidence motif: "FG.G..[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-2P*01	Found a lower-confidence motif: "LG.G". J gene motif not at the expected location (-10). Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBJ2-3*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-4*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-5*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-6*01	Found a high-confidence motif: "FG.G..[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-7*01	Found a high-confidence motif: "FG.GT.[LV]". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBJ2-7*02	Found a high-confidence motif: ".G.GT.[LV]". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV10-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-1*03	Found a lower-confidence motif: "C". Unable to find a high-confidence motif (close to the V region end) and/or gene is partial in it's 3 - using TRBV10-1*01's. Gene is recorded as a pseudogene, and thus expected to not make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV10-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-3*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV10-3*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV11-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV11-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV11-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV11-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV11-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV11-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV11-3*03	Found a lower-confidence motif: "C". Unable to find a high-confidence motif (close to the V region end) and/or gene is partial in it's 3 - using TRBV11-3*01's. Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV11-3*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV12-1*01	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV12-2*01	Found a high-confidence motif: "[AST][AGS].Y..". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV12-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV12-4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV12-4*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV12-5*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV13*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV13*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV14*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV14*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV15*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV15*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV15*03	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV16*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV16*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV16*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV17*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV17*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV18*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV19*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV19*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV19*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV20-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV20-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV20-1*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV20-1*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV20-1*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV20-1*06	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV20-1*07	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV20/OR9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV20/OR9-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Error: gene has an indeterminate functionality ([ORF]). Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV20/OR9-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV21-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV21-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV21/OR9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV22-1*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV22/OR9-2*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV23-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV23/OR9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV23/OR9-2*02	Found a high-confidence motif: "[AST]..Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV24-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV24-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV24/OR9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV24/OR9-2*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV24/OR9-2*03	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV25-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV25/OR9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV25/OR9-2*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV26*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV26/OR9-2*01	Found a high-confidence motif: "[AST]..Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV26/OR9-2*02	Found a high-confidence motif: "[AST]..Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV27*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV28*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV29-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV29-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV29-1*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV29/OR9-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV29/OR9-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV3-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV3-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV3-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV3-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV3-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV30*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV30*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV30*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV30*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV30*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-3*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV4-3*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-1*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-2*01	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV5-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV5-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV5-4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-4*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-4*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV5-4*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-5*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-5*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-5*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-6*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-7*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV5-8*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV5-8*02	Found a lower-confidence motif: "C". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-4*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-5*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-6*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-6*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-6*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-6*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-6*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-7*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV6-8*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV6-9*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-1*01	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV7-2*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-2*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-2*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-2*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV7-3*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as an ORF, and thus might not be able to make working TCRs. 
+TRBV7-3*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-3*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-4*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-4*02	Found a lower-confidence motif: "C". Unable to find a high-confidence motif (close to the V region end) and/or gene is partial in it's 3 - using TRBV7-4*01's. Gene is recorded as a pseudogene, and thus expected to not make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRBV7-5*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV7-5*02	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV7-6*01	Found a high-confidence motif: "[AST][AGS].Y..". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-6*02	Found a high-confidence motif: "[AST][AGS].Y..". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-7*01	Found a high-confidence motif: "[AST][AGS].Y..". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-7*02	Found a high-confidence motif: "[AST][AGS].Y..". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-8*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-8*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-8*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*04	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*05	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*06	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV7-9*07	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV8-1*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV8-1*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV8-2*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV8-2*02	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBV9*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV9*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBV9*03	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRBVA*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBVA*02	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBVA/OR9-2*01	Found a high-confidence motif: "[AST][AGS]..[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBVB*01	Found a lower-confidence motif: "C". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBVB*02	Found a lower-confidence motif: "C". Unable to find a high-confidence motif (close to the V region end) and/or gene is partial in it's 3 - using TRBVB*01's. Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRBVC*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as a pseudogene, and thus expected to not make working TCRs. 
+TRDV1*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRDV2*01	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRDV2*02	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. Gene sequence is also partial in 3', so conserved C was potentially lost. 
+TRDV2*03	Found a high-confidence motif: "[AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRDV3*01	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 
+TRDV3*02	Found a high-confidence motif: "[AST][AGS].Y[FILY].". Gene is recorded as functional, and expected to be able to make working TCRs. 

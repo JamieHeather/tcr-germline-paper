@@ -1,0 +1,460 @@
+Covidence #,Loci,Species all,Species,Germline source all,Germline source,Germline resource all,Germline resource,Release or version,Date accessed,Specific version?,Sequence production all,Sequence production,Analysis tool all,Analysis tool
+422,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Lymphotrack,Other,IMGT/HighV-QUEST,Other
+421,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+420,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,clonotypeR,Other
+419,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+418,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+416,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+414,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+413,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+411,G+D,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+410,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,GRCm38 VDJ v5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+408,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,VDJFasta,Other
+408,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,VDJFasta,Other
+407,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MIGEC,Other
+407,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MIGEC,Other
+406,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+406,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+405,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+404,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+403,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,GeneMapper,Other
+402,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+401,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+400,A,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,IgBLAST,Other
+400,B,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,IgBLAST,Other
+397,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+397,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+396,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,RTCR,Other
+395,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+393,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+392,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NEBNext,Other,NP,NP
+390,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+388,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+387,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+387,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+386,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+386,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+385,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+385,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+384,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,2020-A,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+383,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP ,Other
+383,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP ,Other
+382,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+382,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+379,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,NP,NP
+378,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,NP,NP
+378,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,NP,NP
+377,A,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,Takara,Takara,BLAST+,Other
+377,B,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,Takara,Takara,BLAST+,Other
+376,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+374,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,OC,Other,NP,NP
+373,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+373,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+372,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+372,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+370,A,H. sapiens,H. sapiens,GenBank,Other,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+370,B,H. sapiens,H. sapiens,GenBank,Other,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+369,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+369,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+368,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+367,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,AmpliSeq,Other,Ion Reporter,Other
+366,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+366,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+364,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Lymphotrack,Other,MiXCR,MiXCR
+364,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Lymphotrack,Other,MiXCR,MiXCR
+363,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+362,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+361,B,G. gallus,Other,GRC,GRC,Gallus_gallus-5,Other,NP,NP,NP,RNAseq,RNAseq,Custom analysis,Other
+359,G+D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,VDJFasta,Other
+358,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+356,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+355,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MIGEC,Other
+352,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+351,B,R. affinis,Other,Custom,Other,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+350,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+349,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+349,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+349,G+D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,VDJFasta,Other
+348,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+348,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+347,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+346,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,IgBLAST,Other
+346,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,IgBLAST,Other
+344,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+344,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+344,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+341,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,Adaptive,Adaptive,Custom scripts,Other
+339,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP
+339,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP
+337,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+337,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+337,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+336,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+335,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Custom script,Other
+335,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Custom script,Other
+335,A,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Custom script,Other
+335,B,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Custom script,Other
+334,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,vdj_GRCh38_alts_ensembl-5.0.,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+333,A,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Bowtie2,Other
+333,B,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Bowtie2,Other
+332,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,NP,NP
+331,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+330,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+330,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+330,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+330,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+329,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+328,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+327,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,SmartSeq,Other,MiXCR,MiXCR
+327,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+326,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+326,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,TRUST4,Other
+323,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,2020-A,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+322,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+322,G+D,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+321,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+320,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+319,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+319,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+317,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+316,A,H. sapiens,H. sapiens,GenBank,Other,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+316,B,H. sapiens,H. sapiens,GenBank,Other,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+315,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+315,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+314,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+313,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+312,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+312,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+311,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+310,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,IMonitor,Other
+309,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+308,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+307,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,VDJ-GRCh38-alts-ensembl (5.0.0),NP,Y,10X,10X,Cell Ranger,Cell Ranger
+306,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+306,G+D,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+305,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+305,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+304,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,Alts Ensembl reference (v3.1.0) ,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+303,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+302,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+302,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+301,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+300,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,GEXSCOPE,Other,Cell Ranger,Cell Ranger
+299,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+298,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+297,A+B,H. sapiens,H. sapiens,Ensembl,Other,Ensembl 94,Other,VDJ ref. 5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+295,A+B,M. musculus,M. musculus,GenBank,Other,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+294,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+293,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+292,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+291,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Vidjil,Other
+290,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,QIAseq,Other
+290,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,QIAseq,Other
+290,G,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,QIAseq,Other
+290,D,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,QIAseq,Other
+288,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+288,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+285,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+284,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,NP,NP
+283,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,GEXSCOPE,Other,Cell Ranger,Cell Ranger
+282,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+282,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+277,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+276,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+274,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+273,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+272,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+272,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+272,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+272,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+271,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+269,NP,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,AmpliSeq,Other,NP,NP
+268,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IgBLAST,Other
+267,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+266,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,NP,NP
+266,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+265,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+264,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP
+260,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,cellranger-vdj-GRCh38-alts-emsebl-5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+259,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,vdj GRCh38 alts ensemble 5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+258,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+257,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,vdj-GRCm38-alts-ensembl-7.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+256,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+254,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiTCR,Other
+254,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiTCR,Other
+253,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,IMGT/HighV-QUEST,Other
+253,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,IMGT/HighV-QUEST,Other
+252,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,TRUST4,Other
+252,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,TRUST4,Other
+252,G,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,TRUST4,Other
+252,D,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,TRUST4,Other
+250,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+249,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+248,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+247,B,M. mulatta,Other,Ensembl,Other,Mmul10,Other,GCF_003339765,NP,Y,RNAseq,RNAseq,IMGT/HighV-QUEST,Other
+246,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,ImmuHub,Other,Custom scripts,Other
+244,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,IgBLAST,Other
+244,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,IgBLAST,Other
+243,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+242,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,IonReporter,Other
+241,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,2018-09-18,Y,Repertoire Genesis,Other,Repertoire Genesis,Other
+240,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+238,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+237,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,AmpliSeq,Other,MiXCR,MiXCR
+236,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+235,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP
+234,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+232,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,SeqHealth,Other,MiXCR,MiXCR
+231,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,BioQueue,Other
+231,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,BioQueue,Other
+231,A+B,NP,Other,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+230,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+229,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,RTCR,Other
+228,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,2018-01-30,Y,NC/C,NC/C,NP,NP
+225,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+225,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+224,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+223,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,NP,NP
+222,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+220,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+219,B,C. familiaris,Other,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+218,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,MiXCR,MiXCR
+216,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,NP,NP
+214,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+214,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,Homo_sapiens_GENCODE_GRCh38-p13_Release_37,2021-05-04,Y,OC,Other,Custom scripts,Other
+213,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+212,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,GRCm38_alts_ensembl,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+211,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,BIOMED-2,Other,ARResT/Interrogate,Other
+211,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,BIOMED-2,Other,ARResT/Interrogate,Other
+210,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,NP,NP
+209,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+208,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+207,B,S. domesticus,Other,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+206,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+206,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+205,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,Geneway,Other,MiXCR,MiXCR
+203,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,Ion Reporter,Other
+200,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+200,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+199,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+198,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+195,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+195,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+192,G,G. gallus,Other,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+192,D,G. gallus,Other,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+191,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+191,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,2020-A,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+190,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+189,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,MiXCR,MiXCR
+189,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,MiXCR,MiXCR
+188,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+187,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+186,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+185,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+184,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+184,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+183,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Lymphotrack,Other,NP,NP
+183,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Lymphotrack,Other,NP,NP
+182,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+181,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+181,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+179,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,GRCh38-alts-ensembl-5.0.,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+178,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+177,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+176,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+176,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+176,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,vdj_GRCh38_alts_ensembl_3.1.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+174,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+174,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+173,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,vdj_GRCm38_alts_ensembl-3.1.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+172,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,NP,NP
+170,A,G. gallus,Other,NP,NP,GGswu,Other,GCA_024206055,NP,Y,NC/C,NC/C,VJ-gene-finder,Other
+170,B,G. gallus,Other,NP,NP,GGswu,Other,GCA_024206055,NP,Y,NC/C,NC/C,VJ-gene-finder,Other
+170,G,G. gallus,Other,NP,NP,GGswu,Other,GCA_024206055,NP,Y,NC/C,NC/C,VJ-gene-finder,Other
+170,D,G. gallus,Other,NP,NP,GGswu,Other,GCA_024206055,NP,Y,NC/C,NC/C,VJ-gene-finder,Other
+169,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+169,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+168,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+167,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+166,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+165,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NP,NP,MiXCR,MiXCR
+165,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NP,NP,MiXCR,MiXCR
+164,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+164,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+162,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,MiLaboratories,Other,MiXCR,MiXCR
+161,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+159,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,Custom scripts,Other
+158,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+156,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+155,B,M. musculus,M. musculus,IMGT,IMGT,IMGT/V-QUEST reference genome,Other,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+151,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+151,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+151,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+150,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,ImmuHub,Other,NP,NP
+149,NP,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,MiXCR,MiXCR
+148,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,SmartSeq,Other,MiXCR,MiXCR
+147,G,H. glaber,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+147,D,H. glaber,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+146,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,iRweb,Other
+146,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,iRweb,Other
+145,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+144,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+143,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,IMGT/HighV-Quest,Other
+142,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,MiLaboratories,Other,MiXCR,MiXCR
+142,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,MiLaboratories,Other,MiXCR,MiXCR
+141,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NP,NP,TraCeR,Other
+140,B,M. mulatta,Other,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,IMGT/HighV-QUEST,Other
+139,B,M. musculus,M. musculus,IMGT,IMGT,IMGT/GENE-DB,Other,NP,NP,NP,RNAseq,RNAseq,IgBlast,Other
+138,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+137,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+136,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+135,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+132,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,refdata-gex-GRCh38â2020-A,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+131,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MIGEC,Other
+131,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MIGEC,Other
+130,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,IMGT/HighV-QUEST,Other
+130,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+129,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+129,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+128,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+127,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+125,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSeq,Other
+125,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Roche,Other,NP,NP
+125,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,SmartSeq,Other,NP,NP
+124,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+124,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+123,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,M. mulatta,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,R. affinis,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,H. armiger,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,B. bubalis,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,B. taurus,Other,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+123,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+123,B,M. mulatta,Other,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+123,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+122,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+122,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+121,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+119,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+116,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+115,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+113,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+112,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NP,NP,IMGT,Other
+112,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NP,NP,IMGT,Other
+110,NP,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,GEXSCOPE,Other,NP,NP
+109,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+108,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+108,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,MiLaboratories,Other,NP,NP
+106,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+104,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Custom scripts,Other
+102,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+101,NP,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,NP,NP,MiXCR,MiXCR
+100,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,AmpliSeq,Other,MiXCR,MiXCR
+98,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+97,A+B,M. mulatta,Other,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+96,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+95,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+95,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,SeqHealth,Other,MiXCR,MiXCR
+95,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,SeqHealth,Other,MiXCR,MiXCR
+94,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,QIAseq,QIAseq,MiXCR,MiXCR
+93,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP ,Other
+93,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP ,Other
+92,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+92,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+92,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+90,A,NP,Other,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+90,B,NP,Other,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IMGT/V-QUEST,IMGT/V-QUEST
+89,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+89,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+87,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,vdj_GRCh38_alts_ensembl-7.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+86,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+86,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+84,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ ,Other
+84,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ ,Other
+83,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Imonitor,Other
+83,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+82,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+80,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+80,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+80,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+80,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,RNAseq,RNAseq,MiXCR,MiXCR
+79,A+B,H. sapiens,H. sapiens,GRCH38,Other,GRCH38,Other,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+77,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Oncomine,Other,NP,NP
+75,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+71,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+70,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,NP,NP
+70,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,NP,NP
+69,A+B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+67,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+67,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+66,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NP,NP,IMGT/V-QUEST,IMGT/V-QUEST
+65,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,OC,Other,MiXCR,MiXCR
+64,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+63,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,vdj_GRCh38_alts_ensembl-3.1.0-3.1,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+62,A+B,H. sapiens,H. sapiens,GRCH38,Other,GRCH38,Other,vdj_GRCh38_alts_ensembl-5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+61,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,refdata-cellranger-vdj-GRCh38-alts-ensembl-5.0.0 referenc,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+60,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+60,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+60,D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,MiXCR,MiXCR
+59,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,2020-A,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+58,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+58,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,SmartSeq,Other,TraCeR,Other
+55,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+54,B,H. sapiens,H. sapiens,IMGT,IMGT,IMGT/GENE-DB,Other,NP,NP,NP,Geneway,Other,MiXCR,MiXCR
+53,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,201631-4,2019 Oct,Y,NC/C,NC/C,TRUST4,Other
+53,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,201631-4,2019 Oct,Y,NC/C,NC/C,IgBLAST,Other
+52,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NP,NP,MiXCR,MiXCR
+51,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,NP,NP
+51,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,NP,NP
+50,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,refdata-cellranger-vdj-GRCh38-alts-ensembl-4.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+49,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,vdj_GRCh38_alts_ensembl-5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+48,A,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+48,B,M. musculus,M. musculus,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Decombinator,Other
+45,G+D,M. musculus,M. musculus,IMGT,IMGT,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+44,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+43,NP,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NEBNext,Other,pRESTO NEBNext,Other
+42,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+41,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+39,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+38,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+37,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+37,G+D,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+36,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,iRmap,Other
+36,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,iRmap,Other
+36,G,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,iRmap,Other
+36,D,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,iRepertoire,iRepertoire,iRmap,Other
+35,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+35,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+31,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,Bowtie2,Other
+31,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,Bowtie2,Other
+30,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,NP,NP
+28,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+27,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Repertoire Genesis,Other
+26,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+25,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+24,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,IgBlast,Other
+23,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+22,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Custom scripts,Other
+22,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NC/C,NC/C,Custom scripts,Other
+21,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,10X vdj version 5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
+20,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+19,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh38,GRCh38,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+19,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+17,A+B,H. sapiens,H. sapiens,GRC,GRC,GRCh37,Other,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+16,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,BIOMED-2,Other,MXCR,Other
+15,A,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Repertoire Genesis,Other
+15,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,NC/C,NC/C,Repertoire Genesis,Other
+14,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,NP,NP
+14,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Sanger,Sanger,NP,NP
+13,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+13,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,MiXCR,MiXCR
+12,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,BIOMED-2,Other,MiXCR,MiXCR
+12,G,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,BIOMED-2,Other,MiXCR,MiXCR
+8,NP,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP,NP
+6,B,H. sapiens,H. sapiens,IMGT,IMGT,NP,NP,NP,NP,NP,Oncomine,Other,Ion Reporter,Other
+5,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Adaptive,Adaptive,ImmunoSEQ,ImmunoSEQ
+3,A,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+3,B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,Takara,Takara,CogentIP,CogentIP
+2,A+B,H. sapiens,H. sapiens,NP,NP,NP,NP,NP,NP,NP,10X,10X,Cell Ranger,Cell Ranger
+1,A+B,M. musculus,M. musculus,GRC,GRC,GRCm38,GRCm38,v5.0.0,NP,Y,10X,10X,Cell Ranger,Cell Ranger
