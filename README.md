@@ -8,8 +8,11 @@ The contents of this repo produce the figures in the [currently in submission] m
 The following instructions expect Python scripts to be run in a UNIX-like environment. They were tested with Python 3.12.0 running on Mac OSX.
 
 ### 1) Clone this repo
-    # TODO insert command once this has a repo
-    * `cd tcr-germline-paper`
+  
+```bash
+git clone https://github.com/JamieHeather/tcr-germline-paper.git
+cd tcr-germline-paper
+```
 
 ### 2) Get the GitHub data
 
